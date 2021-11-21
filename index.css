@@ -5,7 +5,7 @@
 }
 
 html {
-    background: url(/assets/conundrum-header.jpeg);
+    background: url(./assets/conundrum-header.jpeg);
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
